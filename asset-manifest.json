@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/kkojae91/react-payments/static/js/main.c61081c5.js",
-    "static/media/questionMark.svg": "/kkojae91/react-payments/static/media/questionMark.7e7d319183b2409a13e4a2f1e5a1171d.svg",
-    "index.html": "/kkojae91/react-payments/index.html",
-    "static/media/addIcon.svg": "/kkojae91/react-payments/static/media/addIcon.38d5f795970601b2c45108816dd06454.svg",
-    "static/media/arrowBackIcon.svg": "/kkojae91/react-payments/static/media/arrowBackIcon.6dfb5c161b0428de8c1898661feed1ec.svg",
-    "main.c61081c5.js.map": "/kkojae91/react-payments/static/js/main.c61081c5.js.map"
+    "main.js": "./static/js/main.fa8d764e.js",
+    "static/media/questionMark.svg": "./static/media/questionMark.7e7d319183b2409a13e4a2f1e5a1171d.svg",
+    "index.html": "./index.html",
+    "static/media/addIcon.svg": "./static/media/addIcon.38d5f795970601b2c45108816dd06454.svg",
+    "static/media/arrowBackIcon.svg": "./static/media/arrowBackIcon.6dfb5c161b0428de8c1898661feed1ec.svg",
+    "main.fa8d764e.js.map": "./static/js/main.fa8d764e.js.map"
   },
   "entrypoints": [
-    "static/js/main.c61081c5.js"
+    "static/js/main.fa8d764e.js"
   ]
 }
